@@ -1,4 +1,4 @@
 GpuComputingDemos
 =================
 
-Easy-to-read Python code demonstrating fundamental concepts in GPU computing with an emphasis on image processing applications
+Easy-to-read Python/CUDA implementations of fundamental GPU computing primitives.
