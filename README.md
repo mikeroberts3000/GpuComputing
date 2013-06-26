@@ -11,7 +11,7 @@ This code can be browsed online with the <a href='http://nbviewer.ipython.org/'>
 
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/Map.ipynb'>map</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/Reduce.ipynb'>reduce</a>
-- <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/PrefixSum.ipynb'>prefix sum</a>
+- <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/PrefixSum.ipynb'>prefix sum (scan)</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/Split.ipynb'>split</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/RadixSort.ipynb'>radix sort</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/Histogram.ipynb'>histogram</a>
