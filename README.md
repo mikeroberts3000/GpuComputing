@@ -7,7 +7,7 @@ I use these primitives to construct easy-to-read Python/CUDA implementations of 
 
 This code can be browsed online with the <a href='http://nbviewer.ipython.org/'>IPython Notebook Viewer</a> using the links below.
 
-### GPU Computing Primitives
+#### GPU Computing Primitives
 
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/Map.ipynb'>map</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/Reduce.ipynb'>reduce</a>
@@ -16,7 +16,7 @@ This code can be browsed online with the <a href='http://nbviewer.ipython.org/'>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/RadixSort.ipynb'>radix sort</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/Histogram.ipynb'>histogram</a>
 
-### Image Processing Operations
+#### Image Processing Operations
 
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/GaussianBlur.ipynb'>Gaussian blurring</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/BilateralFilter.ipynb'>bilateral filtering</a>
