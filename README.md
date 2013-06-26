@@ -23,3 +23,7 @@ This code can be browsed online with the <a href='http://nbviewer.ipython.org/'>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/HistogramEqualization.ipynb'>histogram equalization</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/RedEyeRemoval.ipynb'>red-eye removal</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/SeamlessImageCloning.ipynb'>seamless image cloning</a>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mroberts3000/GpuComputing/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
