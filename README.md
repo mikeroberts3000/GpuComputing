@@ -18,5 +18,3 @@ This code can be browsed online with the <a href='http://nbviewer.ipython.org/'>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/HistogramEqualization.ipynb'>histogram equalization</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/RedEyeRemoval.ipynb'>red-eye removal</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/SeamlessImageCloning.ipynb'>seamless image cloning</a>
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f690becce978971ca86153b4930e380c "githalytics.com")](http://githalytics.com/mroberts3000/GpuComputing)
